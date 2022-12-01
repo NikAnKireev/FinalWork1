@@ -19,7 +19,7 @@
 
 ## **Рисуем блок-схему решения задачи :**
 
-![Getting Started](.FinalWork1/BlockScheme_finalWork.png)
+![picture1](BlockScheme_finalWork.png)
 
 ***
 
